@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "image": "/images/carousel/slider-image-3.jpg",
+    "title": "Specialist in the grocery store",
+    "subtitle": "Only this week. Don’t miss...",
+    "price": 7.99,
+    "discount": 20
+  },
+  {
+    "id": 0,
+    "image": "/images/carousel/slider-image-4.jpg",
+    "title": "Specialist in the grocery store",
+    "subtitle": "Only this week. Don’t miss...",
+    "price": 7.99,
+    "discount": 20
+  },
+  {
+    "id": 0,
+    "image": "/images/carousel/slider-image-5.jpg",
+    "title": "Specialist in the grocery store",
+    "subtitle": "Only this week. Don’t miss...",
+    "price": 7.99,
+    "discount": 20
+  }
+]
