@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Nestle Original Coffee-Mate Coffee Creamer",
+    "isAvailable": true,
+    "rating": 5.0,
+    "original_price": 13.99,
+    "current_price": 11.99,
+    "discount": true,
+    "recommended": false,
+    "organic": false,
+    "image": "/images/product-section-one/pi (1).jpg"
+  },
+  {
+    "name": "USDA Choice Angus Beef Stew Meat",
+    "isAvailable": true,
+    "rating": 4.0,
+    "original_price": 79.99,
+    "current_price": 49.99,
+    "discount": true,
+    "recommended": false,
+    "organic": false,
+    "image": "/images/product-section-one/pi (2).jpg"
+  },
+  {
+    "name": "Vital Farms Pasture-Raised Egg Bites Bacon & Cheddar",
+    "isAvailable": true,
+    "rating": 4.0,
+    "original_price": 29.0,
+    "current_price": 25.0,
+    "discount": true,
+    "recommended": false,
+    "organic": false,
+    "image": "/images/product-section-one/pi (3).jpg"
+  },
+  {
+    "name": "Werther's Original Caramel Hard Candies",
+    "isAvailable": true,
+    "rating": 5.0,
+    "original_price": 20.0,
+    "current_price": 14.97,
+    "discount": true,
+    "recommended": false,
+    "organic": false,
+    "image": "/images/product-section-one/pi (4).jpg"
+  },
+  {
+    "name": "All Natural Italian-Style Chicken Meatballs",
+    "isAvailable": true,
+    "rating": 4.0,
+    "original_price": 9.35,
+    "current_price": 7.25,
+    "discount": true,
+    "recommended": true,
+    "organic": false,
+    "image": "/images/product-section-one/pi (5).jpg"
+  },
+  {
+    "name": "Angie’s Boomchickapop Sweet & Salty Kettle Corn",
+    "isAvailable": true,
+    "rating": 4.0,
+    "current_price": 7.99,
+    "variant_notice": "Multiple variants available",
+    "discount": false,
+    "recommended": false,
+    "organic": false,
+    "image": "/images/product-section-one/pi (6).jpg"
+  },
+  {
+    "name": "Field Roast Chao Cheese Creamy Original",
+    "isAvailable": false,
+    "rating": 5.0,
+    "original_price": 24.0,
+    "current_price": 19.5,
+    "discount": true,
+    "recommended": false,
+    "organic": true,
+    "image": "/images/product-section-one/pi (7).jpg"
+  },
+  {
+    "name": "Blue Diamond Almonds Lightly Salted",
+    "isAvailable": true,
+    "rating": 5.0,
+    "original_price": 11.68,
+    "current_price": 10.58,
+    "discount": true,
+    "recommended": false,
+    "organic": true,
+    "image": "/images/product-section-one/pi (8).jpg"
+  }
+]

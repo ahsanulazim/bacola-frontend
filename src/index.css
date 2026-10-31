@@ -7,6 +7,18 @@
   --font-dosis: "Dosis", sans-serif;
   --font-inter: "Inter", sans-serif;
   --color-main: #223994;
+  --animate-fade-in: fadein 0.5s ease 0s 1 normal forwards;
+  @keyframes fadein {
+    0% {
+      opacity: 0;
+      transform: translateX(50px);
+    }
+
+    100% {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
 }
 
 /* swiper css */
