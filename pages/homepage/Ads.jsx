@@ -13,7 +13,7 @@ const Ads = () => {
       <img
         src="/images/banner-box.jpg"
         alt="Banner 1"
-        className="rounded-box"
+        className="rounded-box w-full"
       />
     </div>
   );
